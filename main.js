@@ -42,5 +42,9 @@ function draw() {
 }
 
 function Kchat() {
-    window.location.href = "";
+    window.location.href = "https://aadya-ai.github.io/OBJECT_DETECTION_ON_IMAGES-Kchat/";
+}
+
+function Back() {
+    window.location.href = "https://aadya-ai.github.io/OBJECT_DETECTION_ON_IMAGES-1/";
 }
